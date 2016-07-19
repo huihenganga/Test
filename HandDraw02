@@ -19,9 +19,9 @@ import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
 
 public class HandDraw02 {
-	//画图去的宽度
+	//画图区的宽度
 	private final int AREA_WIDTH =500;
-	//画图去的高度
+	//画图区的高度
 	private final int AREA_HEIGHT =400;
 	//下面的preX、preY保存了上一次鼠标拖动时间的鼠标坐标
 	private int preX = -1;
